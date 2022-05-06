@@ -18,3 +18,4 @@ If a player decides not to play again the game is over.
 
 # Project Structure
 __main__.py     (program entry point)
+hilo.py         (Game main structure)
