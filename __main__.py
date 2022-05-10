@@ -1,3 +1,3 @@
-import hilo
-game = hilo.game_logic()
+from hilo import game_logic
+game = game_logic()
 game.start_game()
