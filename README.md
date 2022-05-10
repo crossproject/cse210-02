@@ -1,6 +1,10 @@
 # cse210-02
 Abstraction: Teach One Another
 
+Hilo The Game
+# Libraries:
+* deque
+* random
 # Hilo
 Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. Points are won or lost based on whether or not the player guessed correctly.
 
@@ -16,6 +20,21 @@ Hilo is a game in which the player guesses if the next card drawn by the dealer 
 * If a player has more than 0 points they decide if they want to keep playing.
 * If a player decides not to play again the game is over.
 
+# Instructions
+* In the cli execute python3 __main__.py
+* Select "h" for higher or "l" for lower.
+* Decide if wants to continue playing the game.
 # Project Structure
 __main__.py     (program entry point)
 hilo.py         (Game main structure)
+
+# Contributor:
+Joseph Perez
+    per16068@byui.edu
+    Class Game_Logic
+Daniel Parra 
+    Class Player
+Jonathan Uribe 
+    Class card
+Gloria Rosado 
+    Documentation of the game
