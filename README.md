@@ -35,6 +35,7 @@ Joseph Perez
 Daniel Parra 
     Class Player
 Jonathan Uribe 
+    u266801382@byui.edu
     Class card
 Gloria Rosado 
     Documentation of the game
