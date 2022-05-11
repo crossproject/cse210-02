@@ -108,3 +108,4 @@ class game_logic(card, player):
                 print("Sorry! You lost 75 points.")
 
             print(f"Your new score is {self.points}")
+

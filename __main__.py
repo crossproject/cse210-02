@@ -6,3 +6,4 @@ print("Your starting points are 300")
 
 game = game_logic()
 game.start_game()
+
