@@ -25,22 +25,22 @@ Hilo is a game in which the player guesses if the next card drawn by the dealer 
 * Select "h" for higher or "l" for lower.
 * Decide if wants to continue playing the game.
 # Project Structure
-__main__.py     (program entry point)
-hilo.py         (Game main structure)
+* __main__.py     (program entry point)
+* hilo.py         (Game main structure)
 
 # Contributor:
-Joseph Perez
-    per16068@byui.edu
-    Class Game_Logic
-Daniel Parra 
-    Class Player
-Jonathan Uribe 
-    u266801382@byui.edu
-    Class card
-Gloria Rosado 
-    ros21035@byui.edu
-    Documentation of the game
-Thomas Villalobos
-    vil22003@byui.edu
-    Fix some bugs and add features
+* Joseph Perez
+    - per16068@byui.edu
+    - Class Game_Logic
+* Daniel Parra 
+    - Class Player
+* Jonathan Uribe 
+    - u266801382@byui.edu
+    - Class card
+* Gloria Rosado 
+    - ros21035@byui.edu
+    - Documentation of the game
+* Thomas Villalobos
+    - vil22003@byui.edu
+    - Fix some bugs and add features
 
