@@ -38,7 +38,8 @@ Points are won or lost based on whether or not the player guessed correctly.
 * Joseph Perez
     - per16068@byui.edu
     - Class Game_Logic
-* Daniel Parra 
+* Daniel Parra
+    - par21002@byui.edu
     - Class Player
 * Jonathan Uribe 
     - u266801382@byui.edu
