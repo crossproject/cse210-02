@@ -2,7 +2,7 @@
 Abstraction: Teach One Another
 
 Hilo The Game
-# Libraries:
+# Libraries
 * deque
 * random
 
@@ -34,7 +34,7 @@ Points are won or lost based on whether or not the player guessed correctly.
 # Required Software
 * Python 3.8.0
 
-# Contributors:
+# Contributors
 * Joseph Perez
     - per16068@byui.edu
     - Class Game_Logic
