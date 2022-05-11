@@ -34,7 +34,7 @@ Points are won or lost based on whether or not the player guessed correctly.
 # Required Software
 * Python 3.8.0
 
-# Contributor:
+# Contributors:
 * Joseph Perez
     - per16068@byui.edu
     - Class Game_Logic
