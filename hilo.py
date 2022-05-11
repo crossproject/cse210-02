@@ -42,7 +42,6 @@ class game_logic(card, player):
                 self.alive = False
                 break
             self.answer = input(f"Play again?[y/n] ").lower()
-
             self.validation()
     def display(self):
     #TODO Display Information
@@ -51,12 +50,12 @@ class game_logic(card, player):
     #TODO Process input, calculate points and decide if the game ends.
         if self.high_low == 'l'.lower():
             if self.randomNumber[0] < self.randomNumber[1]:
-                self.points -= 100
+                self.points += 100
             else:
                 self.points -= 75
         if self.high_low == 'h'.lower():
             if self.randomNumber[0] > self.randomNumber[1]:
-                self.points -= 100
+                self.points += 100
             else:
                 self.points -= 75
     #TODO Determine the next card available
