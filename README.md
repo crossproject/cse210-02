@@ -5,8 +5,10 @@ Hilo The Game
 # Libraries:
 * deque
 * random
+
 # Hilo
-Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. Points are won or lost based on whether or not the player guessed correctly.
+Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. 
+Points are won or lost based on whether or not the player guessed correctly.
 
 # Rules
 * The player starts the game with 300 points.
@@ -24,9 +26,13 @@ Hilo is a game in which the player guesses if the next card drawn by the dealer 
 * In the cli execute python3 __main__.py
 * Select "h" for higher or "l" for lower.
 * Decide if wants to continue playing the game.
+
 # Project Structure
 * __main__.py     (program entry point)
 * hilo.py         (Game main structure)
+
+# Required Software
+* Python 3.8.0
 
 # Contributor:
 * Joseph Perez
@@ -43,4 +49,3 @@ Hilo is a game in which the player guesses if the next card drawn by the dealer 
 * Thomas Villalobos
     - vil22003@byui.edu
     - Fix some bugs and add features
-
