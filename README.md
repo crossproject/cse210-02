@@ -38,4 +38,5 @@ Jonathan Uribe
     u266801382@byui.edu
     Class card
 Gloria Rosado 
+    ros21035@byui.edu
     Documentation of the game
